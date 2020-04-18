@@ -16,5 +16,5 @@
 ## How-To
 
 * [How you can contribute](how-to/how-you-can-contribute/README.md)
-  * [How to add content to the site?](how-to/how-you-can-contribute/how-to-add-content-to-the-site.md)
+  * [How to add content?](how-to/how-you-can-contribute/how-to-add-content-to-the-site.md)
 

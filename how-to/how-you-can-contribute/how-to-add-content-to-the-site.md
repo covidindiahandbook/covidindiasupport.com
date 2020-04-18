@@ -1,4 +1,4 @@
-# How to add content to the site?
+# How to add content?
 
 **First step:** Understand what’s present on the site - go through the various sections and the associated resources.   
 ****
