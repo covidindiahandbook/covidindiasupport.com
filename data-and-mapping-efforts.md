@@ -20,11 +20,7 @@
 
 [**Bangalore Distress Map Request**](https://docs.google.com/forms/d/e/1FAIpQLSeVhKrjsrXDfh5RSVyAeJJ6FO7df8gJmuHuVCrAzPTk3_k1vw/viewform?vc=0&c=0&w=1&fbclid=IwAR0TMe9kD0ox4doS3eS7A7jfFtUQXicX2bDzgCBvTvs63wjGULViIxnND00): Run by [Naavu Bhaarateeyaru Bangalore](https://www.facebook.com/ThePeopleOfIndiaKA/)
 
-Region wise datasheets: ****[**Karnataka**](https://docs.google.com/spreadsheets/d/1PZ0Un6eaLibIypKAIr2aa4zju6JIYXsvyPxsJBE00o4/edit?usp=sharing)**,** [**Pune**](https://docs.google.com/spreadsheets/d/1i3PAHvtSLq-6IX_dA9d74O23eofBgX6vnN8rBGOmY8A/edit?ts=5e855568#gid=1058104134)**,** [**Mumbai**](https://docs.google.com/spreadsheets/d/1anG-VCEYlV99rUSuABfF0Ab073GCr-xzHIKnx_Y5mvo/edit#gid=912519123) **,** [**Kolkata**](https://docs.google.com/spreadsheets/d/1BaGXGwjLlY5nOgIJaDw9A1WWOyTOFEyqrq385Zk-f-c/edit#gid=0)\*\*\*\*
+Region wise datasheets: ****[**Karnataka**](https://docs.google.com/spreadsheets/d/1PZ0Un6eaLibIypKAIr2aa4zju6JIYXsvyPxsJBE00o4/edit?usp=sharing)**,** [**Pune**](https://docs.google.com/spreadsheets/d/1i3PAHvtSLq-6IX_dA9d74O23eofBgX6vnN8rBGOmY8A/edit?ts=5e855568#gid=1058104134)**,** [**Mumbai**](https://docs.google.com/spreadsheets/d/1anG-VCEYlV99rUSuABfF0Ab073GCr-xzHIKnx_Y5mvo/edit#gid=912519123) **,** [**Kolkata**](https://docs.google.com/spreadsheets/d/1BaGXGwjLlY5nOgIJaDw9A1WWOyTOFEyqrq385Zk-f-c/edit#gid=0)**:**  Deep regional resources detailing local hospital information, mental health resources and local volunteer availability.
 
-Deep regional resources detailing local hospital information, mental health resources and local volunteer availability.
-
-\*\*\*\*[**Curated Datasets by Sattva**](https://www.indiadatainsights.com/free-interact/covid-19-global-efforts/)\*\*\*\*
-
-Helping summarize COVID-19 related resource requests and availability
+\*\*\*\*[**Curated Datasets by Sattva**](https://www.indiadatainsights.com/free-interact/covid-19-global-efforts/)**:**  Helping summarize COVID-19 related resource requests and availability
 
