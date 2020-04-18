@@ -8,7 +8,7 @@ description: Make this site better.
 This is a community driven project. You can make improvements too!**  
 [**Join our slack**](https://join.slack.com/t/covid-19indiasupport/shared_invite/zt-d0qjoovn-4VE2rEaVmKqY84TrTMIxug) **and read the pinned messages to get access to edit our pages.**
 
-**✏️ Instructions**
+## **✏️ Instructions**
 
 [**How to make improvements to our content?**](https://docs.google.com/document/d/1rySoaC8TFqwsCQH4LHS0p7lVHnmXvFmiSN_1b8cpYk8/edit)
 
@@ -17,7 +17,7 @@ This is a community driven project. You can make improvements too!**
 * **This page and project is evolving, don’t hesitate to address any shortcomings you see! We suggest discussing ideas on the slack channel before making major changes.** 
 * **Note: Please list your source when editing the linked documents. If the source is not verifiable, the entry will be eventually removed.**
 
-## **Have 1 hour to spare?:** 
+## **Have 1 hour to spare?**
 
 **Add Content: Find and add new relevant content to one of the pages on the handbook.**   
 
