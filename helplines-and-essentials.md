@@ -2,7 +2,7 @@
 
 \*\*\*\*[**Essential Services Data**](https://www.covid19india.org/essentials)  ****
 
-A crowdsourced list of essential service providers \(such as free food, police, ambulances, hospitals, mental well being counselling, delivery services, etc.\) across the country by covid19india.org. Please submit new entries [here](https://docs.google.com/forms/d/e/1FAIpQLSfquevp7_rdgdEoDgTdimWwTXO3B9TjFEAm3DbrMDXxCiuwuA/viewform).
+A crowdsourced list of essential service providers \(such as free food, police, ambulances, hospitals, mental well being counseling, delivery services, etc.\) across the country by covid19india.org. Please submit new entries [here](https://docs.google.com/forms/d/e/1FAIpQLSfquevp7_rdgdEoDgTdimWwTXO3B9TjFEAm3DbrMDXxCiuwuA/viewform).
 
 \*\*\*\*[**COVID-FYI**](https://covidfyi.in/) ****
 
