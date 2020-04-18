@@ -1,3 +1,7 @@
+---
+description: A list of mapping and data curation efforts in India
+---
+
 # Data and Mapping Efforts
 
 [**Neighbourhood Dashboard**](http://nd.solveninja.org/) ****: Map based view of regional resources and volunteers by Reap Benefit
