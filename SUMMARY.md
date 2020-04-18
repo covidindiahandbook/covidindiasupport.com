@@ -13,3 +13,8 @@
 * [Miscellaneous](miscellaneous.md)
 * [Fight against COVID-19 Solutions](https://www.notion.so/Fight-Against-COVID-19-Solutions-b137d8f548734e2e84d4058263e97672)
 
+## How-To
+
+* [How you can contribute](how-to/how-you-can-contribute/README.md)
+  * [How to add content to the site?](how-to/how-you-can-contribute/how-to-add-content-to-the-site.md)
+
