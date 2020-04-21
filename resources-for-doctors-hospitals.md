@@ -10,7 +10,11 @@ Estimates by researchers affiliated with CDDEP and Princeton
 
 ## **PPE**
 
-\*\*\*\*[**ICMR Approved List of PPE manufacturers**](https://drive.google.com/file/d/1BUzj89_pQdtUpQ1wPTrmAJkO3aFqmTvE/view)\*\*\*\*
+[**PPE Demand Supply Matching**](https://t.me/joinchat/PjzpJhy56B3N1sINXkyKBw)\*\*\*\*
+
+A telegram group for matching demand and supply - for serious participants only. 
+
+[**ICMR Approved List of PPE manufacturers**](https://drive.google.com/file/d/1BUzj89_pQdtUpQ1wPTrmAJkO3aFqmTvE/view)\*\*\*\*
 
 This is a government approved list of mask, sanitizer and glove manufacturers
 
@@ -21,6 +25,12 @@ An analysis of availability of PPE and specifications
 \*\*\*\*[**Supplier catalogue**](https://airtable.com/shrCKnk7easkiJMO4/tblI3dadTtpoeUzYF?blocks=hide)\*\*\*\*
 
 Crowdsourced supplier catalogue by covidindia.org
+
+\*\*\*\*
+
+\*\*\*\*
+
+\*\*\*\*
 
 
 
