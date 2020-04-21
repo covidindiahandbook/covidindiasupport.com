@@ -9,6 +9,7 @@
 * [Awareness](awareness.md)
 * [Community Organization and Volunteering Resources](volunteers.md)
 * [Resources for Manufacturers/Suppliers](for-orgs.md)
+* [Resources for Doctors/Hospitals](resources-for-doctors-hospitals.md)
 * [Innovation and Startups](innovation.md)
 * [Miscellaneous](miscellaneous.md)
 * [Estimate your health risk](https://covid.myhealthvectors.com/)
