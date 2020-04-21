@@ -8,7 +8,11 @@ Collecting playbooks and strategies for volunteers and affected individuals
 
 Learning from discussions of the Bangalore Changemaker group
 
-#### [Low cost/Open Source DIY Emergency Supply Alternatives](https://docs.google.com/spreadsheets/d/1bY0qMWlMI5CUqOSSwhH--hlB8xYwr_6ZGKXgpsI2Z1c/edit#gid=1916564488)
+\*\*\*\*[**Supplies Estimator**](https://c19-supplies-estimator.netlify.app/)\*\*\*\*
+
+This tool by Swasti helps you easily calculate costs related to basic food and essentials per family, which you can then use to raise/mobilise funding. See all tools [here](https://tools.swasti.org/).[ ****](https://c19-supplies-estimator.netlify.com/)
+
+#### \*\*\*\*[Low cost/Open Source DIY Emergency Supply Alternatives](https://docs.google.com/spreadsheets/d/1bY0qMWlMI5CUqOSSwhH--hlB8xYwr_6ZGKXgpsI2Z1c/edit#gid=1916564488)
 
 DIY Ventilators, masks, hand sanitizer and other critical and non-critical supplies for when the resource crunch begins to occur.
 
