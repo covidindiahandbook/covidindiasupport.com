@@ -28,7 +28,11 @@ description: >-
 
 {% page-ref page="where-to-donate.md" %}
 
+{% page-ref page="awareness.md" %}
+
 {% page-ref page="volunteers.md" %}
+
+{% page-ref page="resources-for-doctors-hospitals.md" %}
 
 {% page-ref page="for-orgs.md" %}
 
