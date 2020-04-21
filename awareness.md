@@ -4,7 +4,11 @@
 
 COVID-19 awareness material in multiple regional languages developed by volunteers. Also see this [thread](https://www.reddit.com/r/india/comments/fo0xj9/coronavirus_covid19_multilingual_resources_wiki/) and this [folder](https://drive.google.com/drive/folders/1pSbXAkJ0UuDIhL2qwi_Ern0cxRrP5z6c?fbclid=IwAR37lXHrodXxdxqoIxvBySmsz-XjTnpTtq91pjLOifPBlqOywX61Zo7LKM4) for more data.
 
-\*\*\*\*[**COVID Gyaan**](https://covid-gyan.in/home)\*\*\*\*
+\*\*\*\*[**MOOC for Coronavirus education in Hindi, English and Gujarati** ](https://www.learn.reach2root.com/courses/r2reng)\*\*\*\*
+
+An initiative by Surat Municipal Corp
+
+[**COVID Gyaan**](https://covid-gyan.in/home)\*\*\*\*
 
 Hub of resources developed by research institutions in India
 
