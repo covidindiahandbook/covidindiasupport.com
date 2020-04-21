@@ -24,6 +24,8 @@ List of open opportunities
 
 Learning how to self-organize and perform common COVID-19 related response tasks. Some resources here are from other COVID-19 affected countries, with references to what works and what doesn’t.
 
+**Collaboratives:** [\#covidactioncollab](https://tools.swasti.org/ngo/create/?lang=en-us) ,  [startupsvscovid.org](https://www.startupsvcovid.org/)
+
 #### [Pandemic Response Plan](https://apfstatic.s3.ap-south-1.amazonaws.com/s3fs-public/District%20Covid-19%20Pandemic%20Response%20Plan%201.2.pdf?j7liJ7EX3HFAYKoAUylwkFzXCT87VAgq)
 
 An attempt to bring together experts & practitioners from relevant fields and to put together a set of guidelines that will help Civil Society Organizations, to focus their work, amplify efforts and provide support to the sections of society that need it the most by the Azim Premji Foundation.
