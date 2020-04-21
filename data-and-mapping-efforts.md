@@ -28,3 +28,5 @@ Region wise datasheets: ****[**Karnataka**](https://docs.google.com/spreadsheets
 
 \*\*\*\*[**Curated Datasets by Sattva**](https://www.indiadatainsights.com/free-interact/covid-19-global-efforts/)**:**  Helping summarize COVID-19 related resource requests and availability
 
+\*\*\*\*[**Outbreak control map by zones**](https://outbreakcontrolroom.com/)  ****A district level zoning map
+
