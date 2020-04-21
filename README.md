@@ -30,11 +30,11 @@ description: >-
 
 {% page-ref page="awareness.md" %}
 
-{% page-ref page="volunteers.md" %}
+{% page-ref page="resources/volunteers.md" %}
 
-{% page-ref page="resources-for-doctors-hospitals.md" %}
+{% page-ref page="resources/resources-for-doctors-hospitals.md" %}
 
-{% page-ref page="for-orgs.md" %}
+{% page-ref page="resources/for-orgs.md" %}
 
 {% page-ref page="innovation.md" %}
 

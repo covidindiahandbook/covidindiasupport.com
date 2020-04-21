@@ -7,11 +7,14 @@
 * [Official Measures](officialmeasures.md)
 * [Where to Donate](where-to-donate.md)
 * [Awareness](awareness.md)
-* [Community Organization and Volunteering Resources](volunteers.md)
-* [Resources for Doctors/Hospitals](resources-for-doctors-hospitals.md)
-* [Resources for Manufacturers/Suppliers](for-orgs.md)
 * [Innovation and Startups](innovation.md)
 * [Miscellaneous](miscellaneous.md)
+
+## Resources
+
+* [Community Organization and Volunteering Resources](resources/volunteers.md)
+* [Resources for Manufacturers/Suppliers](resources/for-orgs.md)
+* [Resources for Doctors/Hospitals](resources/resources-for-doctors-hospitals.md)
 
 ## Important Links
 
