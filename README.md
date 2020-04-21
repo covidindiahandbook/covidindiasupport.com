@@ -32,7 +32,7 @@ description: >-
 
 {% page-ref page="resources/volunteers.md" %}
 
-{% page-ref page="resources/resources-for-doctors-hospitals.md" %}
+{% page-ref page="resources/doctors-hospitals.md" %}
 
 {% page-ref page="resources/for-orgs.md" %}
 
