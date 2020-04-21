@@ -2,9 +2,13 @@
 
 \*\*\*\*[**Project Step One**](https://www.projectstepone.org/) ****
 
-A ****program to telescreen symptomatic COVID-19 suspects which is working with many state governments. Currently looking for Doctors to volunteer. 
+A ****program to telescreen symptomatic COVID-19 suspects which is working with many state governments. Currently looking for Doctors to volunteer.
 
-\*\*\*\*[**State level estimates of Hospitalization needs in India**](https://cddep.org/wp-content/uploads/2020/04/Covid.state_.hosp_3Apr2020.pdf) ****
+\*\*\*\*[**Mechanical ventilation for COVID-19** ](https://www.edx.org/course/mechanical-ventilation-for-covid-19)\*\*\*\*
+
+A 2 hour online course on Mechanical Ventilation from Harvard for medical professionals
+
+[**State level estimates of Hospitalization needs in India**](https://cddep.org/wp-content/uploads/2020/04/Covid.state_.hosp_3Apr2020.pdf) ****
 
 Estimates by researchers affiliated with CDDEP and Princeton
 
