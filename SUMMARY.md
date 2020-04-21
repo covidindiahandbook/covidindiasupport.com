@@ -12,9 +12,9 @@
 
 ## Resources
 
-* [Community Organization and Volunteering Resources](resources/volunteers.md)
-* [Resources for Manufacturers/Suppliers](resources/for-orgs.md)
 * [Resources for Doctors/Hospitals](resources/resources-for-doctors-hospitals.md)
+* [Resources for Manufacturers/Suppliers](resources/for-orgs.md)
+* [Community Organization and Volunteering Resources](resources/volunteers.md)
 
 ## Important Links
 
