@@ -26,5 +26,5 @@ Attempt to come up with a Economic Vulnerability Score for each state.
 
 Because why not. Add your entries [here](https://docs.google.com/document/d/1sRPEr6ke-Tl3sqZ2Ps-iybrjAVAphzOV_qPPOnIsojI/edit).
 
-\*\*\*\*
+\*\*\*\*[**Indian Creatives Against COVID-19**](https://thehardcopy.co/indian-creatives-against-covid/) Creative practitioners stepping up to help efforts to fight Covid-19
 
