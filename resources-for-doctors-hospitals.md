@@ -20,6 +20,10 @@
 
 \*\*\*\*[**Supplier catalogue**](https://airtable.com/shrCKnk7easkiJMO4/tblI3dadTtpoeUzYF?blocks=hide) ****Crowdsourced supplier catalogue by covidindia.org
 
+\*\*\*\*[**Ventilator Expander Proposal**](https://www.nasscom.in/ventilator-expander-proposal) ****Have a doubler for traditional ventilators with Indian manufacturers and hospitals lined up.
+
+\*\*\*\*
+
 \*\*\*\*
 
 \*\*\*\*
