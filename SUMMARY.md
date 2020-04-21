@@ -11,6 +11,7 @@
 * [Resources for Manufacturers/Suppliers](for-orgs.md)
 * [Innovation and Startups](innovation.md)
 * [Miscellaneous](miscellaneous.md)
+* [Estimate your health risk](https://covid.myhealthvectors.com/)
 * [Fight against COVID-19 Solutions](https://www.notion.so/Fight-Against-COVID-19-Solutions-b137d8f548734e2e84d4058263e97672)
 * [Outbreak Control Handbook](https://handbook.outbreakcontrolroom.com/)
 
