@@ -8,6 +8,8 @@ A listing of donation drives, shelters, helplines, government resources and on t
 
 A list of initiatives to support vulnerable groups \(e.g.homeless, trash pickers,migrant workers, etc.\) during the COVID-19 pandemic and national lockdown.
 
+\*\*\*\*[**Amnesty International**](https://amnesty.org.in/support-indias-most-vulnerable-fight-covid-19-a-list-of-fundraisers-you-can-donate-to/) ****Supporting Migrant Workers, Day-Labourers, Urban Poor, Transgender Community, Waste-pickers and Sanitation Workers, Healthcare Workers and Doctors, Animal Care,Older Persons & Children, Other Vulnerable groups.
+
 \*\*\*\*[**Community Resources for Vulnerable Sections**](https://docs.google.com/spreadsheets/d/1eHnj37eolhylTgtAfaBAqcm-affPiBqp5Cka-UALLBI/view?usp=sharing)\*\*\*\*
 
 NGOs/Volunteers providing meals, rations, health kits, shelter and running errands for the vulnerable sections of society, namely, the elderly, daily wage earners, migrant workers, young mothers, health workers and so on.
