@@ -1,34 +1,22 @@
 # Resources for Doctors/Hospitals
 
-\*\*\*\*[**Project Step One**](https://www.projectstepone.org/) ****
+\*\*\*\*[**Mechanical ventilation for COVID-19** ](https://www.edx.org/course/mechanical-ventilation-for-covid-19) ****A 2 hour online course on Mechanical Ventilation from Harvard for medical professionals
 
-A ****program to telescreen symptomatic COVID-19 suspects which is working with many state governments. Currently looking for Doctors to volunteer.
+\*\*\*\*[**ICU Care and Ventilation Strategy webinar by AIIMS**](https://www.youtube.com/watch?v=mXEAqRaqafY&feature=youtu.be)\*\*\*\*
 
-\*\*\*\*[**Mechanical ventilation for COVID-19** ](https://www.edx.org/course/mechanical-ventilation-for-covid-19)\*\*\*\*
+\*\*\*\*[**Project Step One**](https://www.projectstepone.org/)  ****A ****program to telescreen symptomatic COVID-19 suspects which is working with many state governments. Currently looking for Doctors to volunteer.
 
-A 2 hour online course on Mechanical Ventilation from Harvard for medical professionals
-
-[**State level estimates of Hospitalization needs in India**](https://cddep.org/wp-content/uploads/2020/04/Covid.state_.hosp_3Apr2020.pdf) ****
-
-Estimates by researchers affiliated with CDDEP and Princeton
+\*\*\*\*[**State level estimates of Hospitalization needs in India**](https://cddep.org/wp-content/uploads/2020/04/Covid.state_.hosp_3Apr2020.pdf)  ****Estimates by researchers affiliated with CDDEP and Princeton
 
 ## **PPE**
 
-[**PPE Demand Supply Matching**](https://t.me/joinchat/PjzpJhy56B3N1sINXkyKBw)\*\*\*\*
+[**PPE Demand Supply Matching**](https://t.me/joinchat/PjzpJhy56B3N1sINXkyKBw) ****A telegram group for matching demand and supply - for serious participants only. 
 
-A telegram group for matching demand and supply - for serious participants only. 
+[**ICMR Approved List of PPE manufacturers**](https://drive.google.com/file/d/1BUzj89_pQdtUpQ1wPTrmAJkO3aFqmTvE/view) ****This is a government approved list of mask, sanitizer and glove manufacturers
 
-[**ICMR Approved List of PPE manufacturers**](https://drive.google.com/file/d/1BUzj89_pQdtUpQ1wPTrmAJkO3aFqmTvE/view)\*\*\*\*
+\*\*\*\*[**PPE Kits Status**](https://drive.google.com/file/d/1Wz2KDR-y6BFTz3TNte0Ifohxqlw1ymw4/view) ****An analysis of availability of PPE and specifications
 
-This is a government approved list of mask, sanitizer and glove manufacturers
-
-\*\*\*\*[**PPE Kits Status**](https://drive.google.com/file/d/1Wz2KDR-y6BFTz3TNte0Ifohxqlw1ymw4/view)\*\*\*\*
-
-An analysis of availability of PPE and specifications
-
-\*\*\*\*[**Supplier catalogue**](https://airtable.com/shrCKnk7easkiJMO4/tblI3dadTtpoeUzYF?blocks=hide)\*\*\*\*
-
-Crowdsourced supplier catalogue by covidindia.org
+\*\*\*\*[**Supplier catalogue**](https://airtable.com/shrCKnk7easkiJMO4/tblI3dadTtpoeUzYF?blocks=hide) ****Crowdsourced supplier catalogue by covidindia.org
 
 \*\*\*\*
 
