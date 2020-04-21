@@ -10,7 +10,7 @@ Useful launch point for getting into the fight.
 
 \*\*\*\*[**Analysis of opensource COVID-19 pandemic ventilator projects**](https://docs.google.com/spreadsheets/d/e/2PACX-1vTYAfldxoIiO46VAWH1NlhrwFBn9mguqS2bh1spnLEu4AVVN1cj1vaEm6vOp5Z6UnaAbUwd8dslCXdM/pubhtml#)\*\*\*\*
 
-\*\*\*\*[**How to create a COVID-19 app for your region?**](https://docs.google.com/document/d/1T_wP4hue0xIzfLCDlGza0-mZQ1SnXLhXW8Hzp7dfOzE/edit#heading=h.gdpwagieen0s)\*\*\*\*
+\*\*\*\*[**How to create a COVID-19 mobile app for your region?**](https://docs.google.com/document/d/1T_wP4hue0xIzfLCDlGza0-mZQ1SnXLhXW8Hzp7dfOzE/edit#heading=h.gdpwagieen0s)\*\*\*\*
 
 Help your community find COVID-19 related support resources by creating a simple phone app by following this procedure. Explore the [Bangalore App](https://covid19blr.glideapp.io/) & [Pune App](https://punecovid.glideapp.io/).
 
