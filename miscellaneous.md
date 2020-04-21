@@ -18,6 +18,10 @@ Collection of resources on how to manage COVID-19 and its effects on your organi
 
 Trends tracker during COVID-19
 
+\*\*\*\*[**Economic Vulnerability Tracker**](https://covid19vul.in/)\*\*\*\*
+
+Attempt to come up with a Economic Vulnerability Score for each state. 
+
 ## **COVID-19 Art, Poetry, Humor, etc.**
 
 Because why not. Add your entries [here](https://docs.google.com/document/d/1sRPEr6ke-Tl3sqZ2Ps-iybrjAVAphzOV_qPPOnIsojI/edit).
