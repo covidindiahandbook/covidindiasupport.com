@@ -4,7 +4,9 @@
 
 \*\*\*\*[**ICU Care and Ventilation Strategy webinar by AIIMS**](https://www.youtube.com/watch?v=mXEAqRaqafY&feature=youtu.be)\*\*\*\*
 
-\*\*\*\*[**Project Step One**](https://www.projectstepone.org/)  ****A ****program to telescreen symptomatic COVID-19 suspects which is working with many state governments. Currently looking for Doctors to volunteer.
+\*\*\*\*[**COVID-19 Critical Care: Understanding and Application** ](https://www.futurelearn.com/courses/covid-19-critical-care-education-resource) ****Learn the principles and practice of critical care to treat and care for critically ill patients during the COVID-19 pandemic \(Univ. Edinburgh\).
+
+~~\_\_~~[**Project Step One**](https://www.projectstepone.org/)  ****A ****program to telescreen symptomatic COVID-19 suspects which is working with many state governments. Currently looking for Doctors to volunteer.
 
 \*\*\*\*[**State level estimates of Hospitalization needs in India**](https://cddep.org/wp-content/uploads/2020/04/Covid.state_.hosp_3Apr2020.pdf)  ****Estimates by researchers affiliated with CDDEP and Princeton
 
