@@ -28,3 +28,5 @@ Because why not. Add your entries [here](https://docs.google.com/document/d/1sRP
 
 \*\*\*\*[**Indian Creatives Against COVID-19**](https://thehardcopy.co/indian-creatives-against-covid/) Creative practitioners stepping up to help efforts to fight Covid-19
 
+[**Design Fights COVID**](https://designfightscovid.com/) ****Aims to raise funds for the NGOs and non-profits working tirelessly but don’t have access to the power of design
+
