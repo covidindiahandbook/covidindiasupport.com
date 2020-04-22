@@ -10,9 +10,9 @@ description: A list of mapping and data curation efforts in India
 
 [**COVID Maps**](https://covidmaps.in/): Locate local stores that sell essentials
 
-\*\*\*\*[**Economic Vulnerability Tracker**](https://covid19vul.in/)  ****A platform to enable data driven donations based on an economic vulnerability score
+\*\*\*\*[**Economic Vulnerability Tracker**](https://covid19vul.in/)  ****A platform to enable data driven donations based on the economic vulnerability score of a region
 
-\*\*\*\*[**Google Maps**](https://www.google.com/maps/search/night+shelters+in+agra/@27.175701,77.9932138,13z/data=!3m1!4b1): Query for food shelters/ night shelters, e.g. “food shelters in agra”, “night shelters in agra”
+[**www.khaanachahiye.com**](https://www.khaanachahiye.com/) ****: Mapping people who need a meal in Mumbai
 
 [**BBMP-Food for the needy**](https://www.google.com/maps/d/u/0/viewer?mid=1EinPHK61QqoWJKmS-sdIacZcOxBuevYt&shorturl=1&ll=12.988932681043936%2C77.6189611499999&z=11): Bangalore map of centers distributing food for the needy
 
@@ -20,9 +20,11 @@ description: A list of mapping and data curation efforts in India
 
 [**GHMC - Free food and hospitals with isolation facilities**](https://www.google.com/maps/d/u/0/viewer?mid=1VJNbhiEqkhwk6n2OHCZ9fi1fPp_nkgzo&shorturl=1&ll=17.502708597973033%2C78.31397036946612&z=10&fbclid=IwAR1tFWtG8nPhgZO3D8aOF9mj8ztRNBdVKhr_LP9PQKhos655eeLRsIBxM5s) ****: Hyderabad
 
-[**www.khaanachahiye.com**](https://www.khaanachahiye.com/) ****: Mapping people who need a meal in Mumbai
+\*\*\*\*[**Outbreak control map by zones**](https://outbreakcontrolroom.com/)  ****A district level zoning map
 
 [**Find COVID patient nearest to you**](https://www.google.com/maps/d/u/0/viewer?mid=1KWpVysiwDSZD_gUdoiGkEQcaA33kc1zb&ll=23.01448402652841%2C72.57651779359117&z=12) in Ahmedabad
+
+\*\*\*\*[**Google Maps**](https://www.google.com/maps/search/night+shelters+in+agra/@27.175701,77.9932138,13z/data=!3m1!4b1): Query for food shelters/ night shelters, e.g. “food shelters in agra”, “night shelters in agra”
 
 [**Bangalore Distress Map Request**](https://docs.google.com/forms/d/e/1FAIpQLSeVhKrjsrXDfh5RSVyAeJJ6FO7df8gJmuHuVCrAzPTk3_k1vw/viewform?vc=0&c=0&w=1&fbclid=IwAR0TMe9kD0ox4doS3eS7A7jfFtUQXicX2bDzgCBvTvs63wjGULViIxnND00): Run by [Naavu Bhaarateeyaru Bangalore](https://www.facebook.com/ThePeopleOfIndiaKA/)
 
@@ -30,5 +32,5 @@ Region wise datasheets: ****[**Karnataka**](https://docs.google.com/spreadsheets
 
 \*\*\*\*[**Curated Datasets by Sattva**](https://www.indiadatainsights.com/free-interact/covid-19-global-efforts/)**:**  Helping summarize COVID-19 related resource requests and availability
 
-\*\*\*\*[**Outbreak control map by zones**](https://outbreakcontrolroom.com/)  ****A district level zoning map
+\*\*\*\*
 
