@@ -18,9 +18,9 @@
 
 ## Important Links
 
-* [Outbreak Control Handbook](https://handbook.outbreakcontrolroom.com/)
 * [Corona Safe](https://www.coronasafe.in/)
 * [COVID-19 solutions](https://www.notion.so/Fight-Against-COVID-19-Solutions-b137d8f548734e2e84d4058263e97672)
+* [Outbreak Control Handbook](https://handbook.outbreakcontrolroom.com/)
 * [Estimate your health risk](https://covid.myhealthvectors.com/)
 
 ## How-To
