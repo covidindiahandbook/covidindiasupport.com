@@ -10,6 +10,8 @@ description: A list of mapping and data curation efforts in India
 
 [**COVID Maps**](https://covidmaps.in/): Locate local stores that sell essentials
 
+\*\*\*\*[**Economic Vulnerability Tracker**](https://covid19vul.in/)  ****A platform to enable data driven donations based on an economic vulnerability score
+
 \*\*\*\*[**Google Maps**](https://www.google.com/maps/search/night+shelters+in+agra/@27.175701,77.9932138,13z/data=!3m1!4b1): Query for food shelters/ night shelters, e.g. “food shelters in agra”, “night shelters in agra”
 
 [**BBMP-Food for the needy**](https://www.google.com/maps/d/u/0/viewer?mid=1EinPHK61QqoWJKmS-sdIacZcOxBuevYt&shorturl=1&ll=12.988932681043936%2C77.6189611499999&z=11): Bangalore map of centers distributing food for the needy
