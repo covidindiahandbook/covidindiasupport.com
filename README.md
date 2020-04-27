@@ -6,7 +6,7 @@ description: >-
 
 # COVID-19 India Handbook
 
-**This project is modeled based on the** [**Coronavirus Tech Handbook**](https://coronavirustechhandbook.com/)\*\*\*\*
+**This project is modeled based on the** [**Coronavirus Tech Handbook**](https://coronavirustechhandbook.com/) ****
 
 ![India&apos;s crowd-sourced library of regional resources, support groups and COVID-19 related data](.gitbook/assets/90432516_107888680855482_925979959581736960_n.jpg)
 
