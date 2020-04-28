@@ -10,6 +10,10 @@ description: >-
 
 ![India&apos;s crowd-sourced library of regional resources, support groups and COVID-19 related data](.gitbook/assets/90432516_107888680855482_925979959581736960_n.jpg)
 
+{% hint style="info" %}
+**Choose your language**
+{% endhint %}
+
 ## **Goals**
 
 * Serve as a repository of COVID-19 related regional efforts in India and make these efforts easily discoverable and searchable. 
