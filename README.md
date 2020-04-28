@@ -55,7 +55,7 @@ description: >-
 | \*\*\*\*[https://www.reddit.com/r/india/comments/fjhhjv/calling\_volunteers\_covid19\_india\_support\_handbook/](https://www.reddit.com/r/india/comments/fjhhjv/calling_volunteers_covid19_india_support_handbook/) |
 | [https://www.reddit.com/r/india/comments/fmvkyz/calling\_volunteers\_covid19\_viral\_kindness\_groups](https://www.reddit.com/r/india/comments/fmvkyz/calling_volunteers_covid19_viral_kindness_groups/) |
 
-{% hint style="warning" %}
+{% hint style="danger" %}
 **Disclaimer**
 
 This website and our viral kindness groups may contain information about medical conditions and treatments. The information is not advice, and should not be treated as such. We bear no responsibility for any decisions or actions taken resulting from information found in these resources, nor do we claim that any of it is complete, true, accurate, up-to-date, or non-misleading. Use and re-use it at your own risk!
