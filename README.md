@@ -14,7 +14,8 @@ description: >-
 
 * Serve as a repository of COVID-19 related regional efforts in India and make these efforts easily discoverable and searchable. 
 * Help communities self-organise into [viral kindness groups](https://viralkindness.imfast.io/). 
-* Assist in crisis management and response by building simple tools \(e.g. [Resource Tracke](https://tracker.imfast.io/)r, [Help A Stranger \(demo version available\)](http://help-a-stranger.epizy.com/index.php)\).  
+* Assist in crisis management and response by building simple tools \(e.g. [Resource Tracke](https://tracker.imfast.io/)r, [Help A Stranger \(demo version available\)](http://help-a-stranger.epizy.com/index.php)\) 
+* Fostering partnerships with COVID-19 India efforts \(e.g. [Economic Vulnerability Tracker](https://covid19vul.in/), [COVIDFYI](https://covidfyi.in/)\)  
 
 ## Table of Contents
 
