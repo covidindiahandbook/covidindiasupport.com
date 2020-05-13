@@ -30,4 +30,5 @@
 * [About](about/README.md)
   * [About the team](about/team.md)
   * [A Lesson In Hope](about/a-lesson-in-hope.md)
+* [Privacy Policy](privacy-policy.md)
 
