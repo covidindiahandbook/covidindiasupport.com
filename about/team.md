@@ -1,6 +1,6 @@
 # About the team
 
-We are a diverse group of anonymous volunteers trying to do our part to fight the COVID-19 pandemic in India. Just normal people like yourself. If this inspires you, [here’s how to help](https://docs.google.com/document/d/1GLNnpri3W2D4g8LNaJ88XpedSRVUH4t97KV5WfCy6UI/edit#heading=h.746scs8zkt9w).  
+We are a diverse group of anonymous volunteers trying to do our part to fight the COVID-19 pandemic in India. Just normal people like yourself. If this inspires you, [join our slack group](https://join.slack.com/t/covid-19indiasupport/shared_invite/zt-d0qjoovn-4VE2rEaVmKqY84TrTMIxug) and start helping out!  
 
 
 These are some of the bio’s of our volunteers who signed up:   
