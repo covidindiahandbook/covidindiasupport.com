@@ -4,7 +4,9 @@
 
 \*\*\*\*[**COVID-FYI**](https://covidfyi.in/)  ****A Compilation of doctors on call, government officers, helpline numbers and govt./private labs, etc.
 
-[**Support communities**](https://docs.google.com/spreadsheets/d/1bY0qMWlMI5CUqOSSwhH--hlB8xYwr_6ZGKXgpsI2Z1c/edit#gid=0) ****[**and helplines**](https://docs.google.com/spreadsheets/d/1bY0qMWlMI5CUqOSSwhH--hlB8xYwr_6ZGKXgpsI2Z1c/edit#gid=0) These are local Indian groups/NGO’s and informal facebook/ whatsapp/telegram or other relevant online groups.
+\*\*\*\*[**Mental Health Resources**](https://docs.google.com/spreadsheets/d/1-dO8vPtZpyFRY3AmtgKiMROMD7CCvdULIQqLCLv0coI/edit#gid=0)  ****Resources to help you get through tough times.
+
+\*\*\*\*[**Support communities**](https://docs.google.com/spreadsheets/d/1bY0qMWlMI5CUqOSSwhH--hlB8xYwr_6ZGKXgpsI2Z1c/edit#gid=0) ****[**and helplines**](https://docs.google.com/spreadsheets/d/1bY0qMWlMI5CUqOSSwhH--hlB8xYwr_6ZGKXgpsI2Z1c/edit#gid=0) These are local Indian groups/NGO’s and informal facebook/ whatsapp/telegram or other relevant online groups.
 
 [**Emergency Helpline Numbers**](https://docs.google.com/spreadsheets/d/1usFTYcZbvn7e4_YK0lxcPhDO_CSvwdkeSfbdYAbi4jg/edit#gid=0) ****Official numbers assisting the COVID-19 outbreak
 
