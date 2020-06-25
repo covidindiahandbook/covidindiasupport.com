@@ -27,6 +27,9 @@
 
 * [How you can contribute](how-to/how-you-can-contribute.md)
 * [How to add content?](how-to/how-to-add-content-to-the-site.md)
+
+---
+
 * [About](about/README.md)
   * [About the team](about/team.md)
   * [A Lesson In Hope](about/a-lesson-in-hope.md)
