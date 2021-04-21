@@ -16,9 +16,11 @@ These are groups created by volunteers at covidindiasupport.com for local commun
 
 ## [COVID Resource Tracker](https://covidindiasupport.com/tracker) 
 
+&lt;temporariky down&gt;
+
 We have built a simple [resource tracker](http://covidindiasupport.com/tracker) for crisis management. This is meant to help match requests by individuals/organizations with volunteers/supplies and to track request status. You can request/ report availability of food, shelter, medical supplies, elderly care, transport, PPE, masks, 3d printers etc. through filling out a simple form on the tracker: [https://airtable.com/shrMAGfjiSoYeQaN7](https://airtable.com/shrMAGfjiSoYeQaN7) . We are in the process of building out a new improved version. 
 
-## _\*\*Coming Soon\*\*_  `Help A Stranger`  _\*\*Coming Soon\*\*_
+## [Help A Stranger](https://donate.covidindiasupport.com)
 
 A platform for enabling micro-donations to financially affected demographics like daily wage labourers.
 
