@@ -18,7 +18,7 @@ These are groups created by volunteers at covidindiasupport.com for local commun
 
 &lt;temporarily down&gt;
 
-We have built a simple [resource tracker](http://covidindiasupport.com/tracker) for crisis management. This is meant to help match requests by individuals/organisations with volunteers/supplies and to track request status. You can request/ report availability of food, shelter, medical supplies, elderly care, transport, PPE, masks, 3d printers etc. through filling out a simple form on the tracker: [https://airtable.com/shrMAGfjiSoYeQaN7](https://airtable.com/shrMAGfjiSoYeQaN7) . We are in the process of building out a new improved version. 
+We have built a simple [resource tracker](http://covidindiasupport.com/tracker) for crisis management. This is meant to help match requests by individuals/organisations with volunteers/supplies and to track request status. You can request/ report availability of Remdesivir, oxygen tanks, hospital beds, PPE Kits, tiffin services etc. through filling out a simple form on the tracker: [https://airtable.com/shrvRntrU5mvEV0LW](https://airtable.com/shrvRntrU5mvEV0LW) . We are in the process of building out a new improved version. 
 
 ## [Help A Stranger](https://donate.covidindiasupport.com)
 
