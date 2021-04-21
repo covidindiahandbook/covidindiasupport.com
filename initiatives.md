@@ -14,11 +14,9 @@ These are groups created by volunteers at covidindiasupport.com for local commun
 * We are currently looking to expand into other regions: [Sign up here](https://airtable.com/shrutF7LPQMbvxocq) to start a new viral kindness group in your region.
 * Read about small [successes](https://docs.google.com/document/d/1UKQH3NzEAgJtUorGkpE780We11BopqbbJD_-ho8yRi8/edit) we are having.
 
-## [COVID Resource Tracker](https://covidindiasupport.com/tracker) 
+## [COVID Resource Tracker ](resources/resource-tracker.md)
 
-&lt;temporarily down&gt;
-
-We have built a simple [resource tracker](http://covidindiasupport.com/tracker) for crisis management. This is meant to help match requests by individuals/organisations with volunteers/supplies and to track request status. You can request/ report availability of Remdesivir, oxygen tanks, hospital beds, PPE Kits, tiffin services etc. through filling out a simple form on the tracker: [https://airtable.com/shrvRntrU5mvEV0LW](https://airtable.com/shrvRntrU5mvEV0LW) . We are in the process of building out a new improved version. 
+We have built a simple [resource tracke](resources/resource-tracker.md)r for crisis management. This is meant to help match requests by individuals/organisations with volunteers/supplies and to track request status. You can request/ report availability of Remdesivir, oxygen tanks, hospital beds, PPE Kits, tiffin services etc. through filling out a simple form on the tracker: [https://airtable.com/shrvRntrU5mvEV0LW](https://airtable.com/shrvRntrU5mvEV0LW) . We are in the process of building out a new improved version. 
 
 ## [Help A Stranger](https://donate.covidindiasupport.com)
 
