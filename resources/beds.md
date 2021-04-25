@@ -10,5 +10,7 @@ description: >-
 
 [Corona Dashboard](https://coronabeds.jantasamvad.org/index.html) Official Delhi Government website tracking bed availability in COVID designated hospitals across Delhi.
 
+[Tamil Nadu Megasheet](https://docs.google.com/spreadsheets/d/1t75_AfDuf46_aK6RwqUwZGpZV4dv9y0SWaI9pnJRAco/htmlview) A regularly updated spreadsheet for beds availability in Tamil Nadu private hospitals.
 
+[Bed+Food Delhi Sheet](https://docs.google.com/spreadsheets/d/1m-ho5GYS73xIdv9qFeZ2d1fhZOwpNvBC/edit?rtpof=true#gid=964009214) Volunteer compiled sheet for beds and food in Delhi
 
